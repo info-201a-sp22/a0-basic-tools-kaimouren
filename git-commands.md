@@ -19,7 +19,7 @@ git clone https://github.com/info-201a-sp22/a0-basic-tools-kaimouren.git
 cd a0-basic-tools-kaimouren
 
 # (6)  What is the *relative path* from the root directory of the repository to the image file "covid-example-2.png"? [1 points]
-images\COVID-19-Visualizations
+cd images\COVID-19-Visualizations\covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
 git add .
